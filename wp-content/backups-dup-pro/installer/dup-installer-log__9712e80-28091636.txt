@@ -1,0 +1,1585 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 10:02:13
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 7.4.33                                |8.1.24
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.1.24 | SAPI: litespeed
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: LiteSpeed
+DOC ROOT____________: "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+REQUEST URL_________: "https://bonikkadolls.co.id"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[cpnl-dbaction]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+INSTALL MODES_______: CLASSIC
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+URL_NEW_____________: "https://bonikkadolls.co.id"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/home/u726706882/domains/bonikkadolls.co.id/public_html/20231228_mainanbonekaorganikhandmade_[HASH]_20231228091636_archive.daf"
+ARCHIVE SIZE________: 558.03MB
+CREATED_____________: 2023-12-28 09:16:47
+WP VERSION__________: 6.4.2
+DUP VERSION_________: 4.5.14.2
+LICENSE_____________: Business
+PACKAGE COMPONENTS__: Database, Core, Plugins, Themes, Media, Other
+DB VERSION__________: 10.6.16
+DB FILE SIZE________: 32.05MB
+DB TABLES___________: 107
+DB ROWS_____________: 33426
+URL HOME____________: https://bonikkadolls.co.id
+URL CORE____________: https://bonikkadolls.co.id
+URL CONTENT_________: https://bonikkadolls.co.id/wp-content
+URL UPLOAD__________: https://bonikkadolls.co.id/wp-content/uploads
+URL PLUGINS_________: https://bonikkadolls.co.id/wp-content/plugins
+URL MU PLUGINS______: https://bonikkadolls.co.id/wp-content/mu-plugins
+URL THEMES__________: https://bonikkadolls.co.id/wp-content/themes
+PATH HOME___________: /home/jawa2439/public_html/bonikkadolls.co.id
+PATH ABS____________: /home/jawa2439/public_html/bonikkadolls.co.id
+PATH WPCONFIG_______: /home/jawa2439/public_html/bonikkadolls.co.id
+PATH WPCONTENT______: /home/jawa2439/public_html/bonikkadolls.co.id/wp-content
+PATH UPLOADS________: /home/jawa2439/public_html/bonikkadolls.co.id/wp-content/uploads
+PATH PLUGINS________: /home/jawa2439/public_html/bonikkadolls.co.id/wp-content/plugins
+PATH MUPLUGINS______: /home/jawa2439/public_html/bonikkadolls.co.id/wp-content/mu-plugins
+PATH THEMES_________: /home/jawa2439/public_html/bonikkadolls.co.id/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "bonikkadolls.co.id/"
+
+PLUGINS
+PLUGIN [SLUG:all-in-one-wp-migration/all-in-one-wp-migration.php][ON:false]  All-in-One WP Migration
+PLUGIN [SLUG:classic-editor/classic-editor.php                 ][ON:true ]  Classic Editor
+PLUGIN [SLUG:classic-widgets/classic-widgets.php               ][ON:true ]  Classic Widgets
+PLUGIN [SLUG:contact-form-7/wp-contact-form-7.php              ][ON:true ]  Contact Form 7
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:false]  Duplicator
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ]  Duplicator Pro
+PLUGIN [SLUG:dynamic-featured-image/dynamic-featured-image.php ][ON:true ]  Dynamic Featured Image
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:instagram-feed-pro/instagram-feed.php             ][ON:true ]  Instagram Feed Pro Developer
+PLUGIN [SLUG:creame-whatsapp-me/joinchat.php                   ][ON:true ]  Joinchat
+PLUGIN [SLUG:malcare-security/malcare.php                      ][ON:true ]  MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Firewall
+PLUGIN [SLUG:media-library-helper/media-library-helper.php     ][ON:true ]  Media Library Helper by Codexin
+PLUGIN [SLUG:google-analytics-premium/googleanalytics-premium.php][ON:true ]  MonsterInsights Pro
+PLUGIN [SLUG:ongkoskirim-id/ongkoskirim-id.php                 ][ON:true ]  Ongkoskirim.id
+PLUGIN [SLUG:porto-functionality/porto-functionality.php       ][ON:true ]  Porto Theme - Functionality
+PLUGIN [SLUG:porto-vc-addon/init.php                           ][ON:true ]  Porto Theme - Visual Composer Addon
+PLUGIN [SLUG:really-simple-ssl/rlrsssl-really-simple-ssl.php   ][ON:true ]  Really Simple SSL
+PLUGIN [SLUG:google-site-kit/google-site-kit.php               ][ON:true ]  Site Kit by Google
+PLUGIN [SLUG:revslider/revslider.php                           ][ON:true ]  Slider Revolution
+PLUGIN [SLUG:instagram-feed/instagram-feed.php                 ][ON:false]  Smash Balloon Instagram Feed
+PLUGIN [SLUG:spotlight-social-photo-feeds/plugin.php           ][ON:false]  Spotlight - Social Media Feeds
+PLUGIN [SLUG:woocommerce/woocommerce.php                       ][ON:true ]  WooCommerce
+PLUGIN [SLUG:wordpress-seo/wp-seo.php                          ][ON:true ]  Yoast SEO
+
+********************************************************************************
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/ctrls/ctrl.base.php:191][DELTA:   0.02721]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+SET VALUE install-type
+SET VALUE path_new
+SET VALUE url_new
+SET VALUE path_core_new
+SET VALUE siteurl
+SET VALUE path_cont_new
+SET VALUE url_cont_new
+SET VALUE path_upl_new
+SET VALUE url_upl_new
+SET VALUE path_plug_new
+SET VALUE url_plug_new
+SET VALUE path_muplug_new
+SET VALUE url_muplug_new
+SET VALUE subsite_id
+SET VALUE subsite_owr_mapping
+SET VALUE archive_action
+SET VALUE archive_engine
+SET VALUE archive_engine_wpskip
+SET VALUE db-engine
+SET VALUE mode_chunking
+SET VALUE users_mode
+SET VALUE mu_replace
+SET VALUE subsite_users_mode
+SET VALUE set_file_perms
+SET VALUE set_dir_perms
+SET VALUE file_perms_value
+SET VALUE dir_perms_value
+SET VALUE exe_safe_mode
+SET VALUE wp_config
+SET VALUE ht_config
+SET VALUE other_config
+SET VALUE zip_filetime
+SET VALUE remove-redundant
+SET VALUE remove-users-without-permissions
+SET VALUE blogname
+SET VALUE accept-warnings
+SET VALUE zip_throttling
+DATABASE CONNECTION EXCEPTION ERROR: Access denied for user 'u726706882_bonika	'@'localhost' (using password: YES)
+
+INSTALLER ERROR:
+Unable to connect with the following parameters:
+HOST: "localhost"
+DBUSER: "u726706882_bonika	"
+DATABASE: NULL
+MESSAGE: Error: Access denied for user 'u726706882_bonika	'@'localhost' (using password: YES)
+
+
+DATABASE CHECK CHARSET EXCEPTION:  Unable to connect with the following parameters:<br/>HOST: "localhost"
+DBUSER: "u726706882_bonika	"
+DATABASE: NULL
+MESSAGE: Error: Access denied for user 'u726706882_bonika	'@'localhost' (using password: YES)[CODE:0]
+	FILE:/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Utils/Log/Log.php[410]
+	TRACE:
+#0 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/database/class.db.functions.php(117): Duplicator\Installer\Utils\Log\Log::error()
+#1 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/validation/class.validation.database.service.php(71): DUPX_DB_Functions->dbConnection()
+#2 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/validation/class.validation.database.service.php(1050): DUPX_Validation_database_service->getDbConnection()
+#3 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/ctrls/classes/class.ctrl.params.php(378): DUPX_Validation_database_service->caseSensitiveTablesValue()
+#4 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/ctrls/classes/class.ctrl.params.php(139): DUPX_Ctrl_Params::setParamsDatabase()
+#5 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php(196): DUPX_Ctrl_Params::setParamsStep1()
+#6 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php(110): DUPX_Ctrl_ajax::actions()
+#7 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/main.installer.php(47): DUPX_Ctrl_ajax::controller()
+#8 {main}
+
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/ctrls/ctrl.base.php:191][DELTA:   0.02248]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: good
+
+START TEST "Disaster Recovery" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Disaster Recovery" RESULT: skip
+
+START TEST "Partial Backup Check" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00022]  MESSAGE:TEST "Partial Backup Check" RESULT: passed
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00026]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+--------------------------------------
+LOG-TIME[DELTA:   0.00629]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "Wordpress Configuration" [CLASS: DUPX_Validation_test_wp_config]
+LOG-TIME[DELTA:   0.00136]  MESSAGE:TEST "Wordpress Configuration" RESULT: passed
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: soft warning
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00000]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Functions and Classes" [CLASS: DUPX_Validation_test_php_functionalities]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Functions and Classes" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.00863]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Extract only files" [CLASS: DUPX_Validation_test_db_excluded]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Extract only files" RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+DATABASE CONNECTION EXCEPTION ERROR: Access denied for user 'u726706882_bonika	'@'localhost' (using password: YES)
+
+INSTALLER ERROR:
+Unable to connect with the following parameters:
+HOST: "localhost"
+DBUSER: "u726706882_bonika	"
+DATABASE: NULL
+MESSAGE: Error: Access denied for user 'u726706882_bonika	'@'localhost' (using password: YES)
+
+
+      TEST "Host Connection" EXCEPTION: Unable to connect with the following parameters:<br/>HOST: "localhost"
+DBUSER: "u726706882_bonika	"
+DATABASE: NULL
+MESSAGE: Error: Access denied for user 'u726706882_bonika	'@'localhost' (using password: YES)[CODE:0]
+	FILE:/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Utils/Log/Log.php[410]
+	TRACE:
+#0 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/database/class.db.functions.php(117): Duplicator\Installer\Utils\Log\Log::error()
+#1 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/validation/class.validation.database.service.php(71): DUPX_DB_Functions->dbConnection()
+#2 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/validation/database-tests/class.validation.test.db.connection.php(26): DUPX_Validation_database_service->getDbConnection()
+#3 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/validation/class.validation.abstract.item.php(56): DUPX_Validation_test_db_connection->runTest()
+#4 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/validation/class.validation.manager.php(246): DUPX_Validation_abstract_item->test()
+#5 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/validation/class.validation.manager.php(214): DUPX_Validation_manager->runTests()
+#6 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php(186): DUPX_Validation_manager->getValidateData()
+#7 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php(110): DUPX_Ctrl_ajax::actions()
+#8 /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/main.installer.php(47): DUPX_Ctrl_ajax::controller()
+#9 {main}
+
+LOG-TIME[DELTA:   0.00027]  MESSAGE:TEST "Host Connection" RESULT: failed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database Version" RESULT: skip
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Engine Support" RESULT: skip
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database GTID Mode" RESULT: skip
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: User Visibility" RESULT: skip
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Multiple WP Installs" RESULT: skip
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: User Resources" RESULT: skip
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.00000]  MESSAGE:TEST "Privileges: User Table Access" RESULT: skip
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: skip
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: skip
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Character Set and Collation Support" RESULT: skip
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00000]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: skip
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: skip
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00000]  MESSAGE:TEST "Prefix too long" RESULT: skip
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00000]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+SET VALUE install-type
+SET VALUE path_new
+SET VALUE url_new
+SET VALUE path_core_new
+SET VALUE siteurl
+SET VALUE path_cont_new
+SET VALUE url_cont_new
+SET VALUE path_upl_new
+SET VALUE url_upl_new
+SET VALUE path_plug_new
+SET VALUE url_plug_new
+SET VALUE path_muplug_new
+SET VALUE url_muplug_new
+SET VALUE subsite_id
+SET VALUE subsite_owr_mapping
+SET VALUE archive_action
+SET VALUE archive_engine
+SET VALUE archive_engine_wpskip
+SET VALUE db-engine
+SET VALUE mode_chunking
+SET VALUE users_mode
+SET VALUE mu_replace
+SET VALUE subsite_users_mode
+SET VALUE set_file_perms
+SET VALUE set_dir_perms
+SET VALUE file_perms_value
+SET VALUE dir_perms_value
+SET VALUE exe_safe_mode
+SET VALUE wp_config
+SET VALUE ht_config
+SET VALUE other_config
+SET VALUE zip_filetime
+SET VALUE remove-redundant
+SET VALUE remove-users-without-permissions
+SET VALUE blogname
+SET VALUE accept-warnings
+SET VALUE zip_throttling
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/ctrls/ctrl.base.php:191][DELTA:   0.02288]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: good
+
+START TEST "Disaster Recovery" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00000]  MESSAGE:TEST "Disaster Recovery" RESULT: skip
+
+START TEST "Partial Backup Check" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00021]  MESSAGE:TEST "Partial Backup Check" RESULT: passed
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+--------------------------------------
+LOG-TIME[DELTA:   0.00624]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "Wordpress Configuration" [CLASS: DUPX_Validation_test_wp_config]
+LOG-TIME[DELTA:   0.00142]  MESSAGE:TEST "Wordpress Configuration" RESULT: passed
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: soft warning
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00000]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Functions and Classes" [CLASS: DUPX_Validation_test_php_functionalities]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Functions and Classes" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.00856]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Extract only files" [CLASS: DUPX_Validation_test_db_excluded]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Extract only files" RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00014]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00081]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00012]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00031]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00026]  MESSAGE:TEST "Multiple WP Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/database/class.db.php:686] MSG: SELECT command denied to user 'u726706882_bonika'@'localhost' for table `mysql`.`user`
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'u726706882_bonika' AND host = 'localhost'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/validation/class.validation.database.service.php[1090]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/validation/database-tests/class.validation.test.db.user.resources.php[30]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/validation/class.validation.abstract.item.php[56]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/validation/class.validation.manager.php[246]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/classes/validation/class.validation.manager.php[214]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php[186]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php[110]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: /home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/main.installer.php[47]
+
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.01369]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00032]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00052]  MESSAGE:TEST "Character Set and Collation Support" RESULT: soft warning
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00027]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00024]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+DEFAULT DB_CHARSET [utf8] isn't valid, update DB_CHARSET to utf8mb4 and DB_COLLATE set empty
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+SET VALUE install-type
+SET VALUE path_new
+SET VALUE url_new
+SET VALUE path_core_new
+SET VALUE siteurl
+SET VALUE path_cont_new
+SET VALUE url_cont_new
+SET VALUE path_upl_new
+SET VALUE url_upl_new
+SET VALUE path_plug_new
+SET VALUE url_plug_new
+SET VALUE path_muplug_new
+SET VALUE url_muplug_new
+SET VALUE subsite_id
+SET VALUE subsite_owr_mapping
+SET VALUE archive_action
+SET VALUE archive_engine
+SET VALUE archive_engine_wpskip
+SET VALUE db-engine
+SET VALUE mode_chunking
+SET VALUE users_mode
+SET VALUE mu_replace
+SET VALUE subsite_users_mode
+SET VALUE set_file_perms
+SET VALUE set_dir_perms
+SET VALUE file_perms_value
+SET VALUE dir_perms_value
+SET VALUE exe_safe_mode
+SET VALUE wp_config
+SET VALUE ht_config
+SET VALUE other_config
+SET VALUE zip_filetime
+SET VALUE remove-redundant
+SET VALUE remove-users-without-permissions
+SET VALUE blogname
+SET VALUE accept-warnings
+SET VALUE zip_throttling
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 10:03:18
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "mainan boneka organik handmade - bonikkadols Indonesia"
+HOME URL NEW________: "https://bonikkadolls.co.id"
+SITE URL NEW________: "https://bonikkadolls.co.id"
+CONTENT URL NEW_____: "https://bonikkadolls.co.id/wp-content"
+UPLOAD URL NEW______: "https://bonikkadolls.co.id/wp-content/uploads"
+PLUGINS URL NEW_____: "https://bonikkadolls.co.id/wp-content/plugins"
+MUPLUGINS URL NEW___: "https://bonikkadolls.co.id/wp-content/mu-plugins"
+HOME PATH NEW_______: "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+SITE PATH NEW_______: "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+CONTENT PATH NEW____: "/home/u726706882/domains/bonikkadolls.co.id/public_html/wp-content"
+UPLOAD PATH NEW_____: "/home/u726706882/domains/bonikkadolls.co.id/public_html/wp-content/uploads"
+PLUGINS PATH NEW____: "/home/u726706882/domains/bonikkadolls.co.id/public_html/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/home/u726706882/domains/bonikkadolls.co.id/public_html/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "duparchive"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer"
+	FILE: "/home/u726706882/domains/bonikkadolls.co.id/public_html/20231228_mainanbonekaorganikhandmade_[HASH]_20231228091636_installer-backup.php"
+	FILE: "/home/u726706882/domains/bonikkadolls.co.id/public_html/20231228_mainanbonekaorganikhandmade_[HASH]_20231228091636_archive.daf"
+	FILE: "/home/u726706882/domains/bonikkadolls.co.id/public_html/installer.php"
+	FILE: "/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer-bootlog__9712e80-28091636.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20231228_mainanbonekaorganikhandmade_[HASH]_20231228091636_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: DUP ARCHIVE >>> START
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+*** RESET CONFIG FILES END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+SQL FILE NOT FOUND SO ADD TO EXTRACTION
+ARCHIVE OFFSET 0
+DAWN START EXPAND
+DUP EXPAND OFFSET 35
+CHUNK COMPLETE - RUNTIME: 4.7407 sec. - Files processed: 18,389 of 32,246
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+SQL FILE NOT FOUND SO ADD TO EXTRACTION
+ARCHIVE OFFSET 526088518
+DAWN CONTINUE EXPAND
+#### seeking archive offset 526088518
+DUP EXPAND OFFSET 526088518
+--------------------------------------
+PATHS MAPPING : "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+--------------------------------------
+DUP EXPAND DONE
+
+
+EXTRACTION: DUP ARCHIVE >>> DONE
+
+EXTRACTION COMPLETE @ 10:03:25 - RUNTIME: 6.8390 sec. - Files processed: 32,246 of 32,246
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wp_
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 10:03:25
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wp_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wp_actionscheduler_actions"______________________[ROWS:      48] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_actions]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_claims]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:       7] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_groups]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:     139] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_logs]
+TABLE "wp_bv_activities_store"__________________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: wp_bv_activities_store]
+TABLE "wp_bv_fw_requests"_______________________________[ROWS:     178] [EXTRACT|REPLACE] [INST NAME: wp_bv_fw_requests]
+TABLE "wp_bv_ip_store"__________________________________[ROWS:    5838] [EXTRACT|REPLACE] [INST NAME: wp_bv_ip_store]
+TABLE "wp_bv_lp_requests"_______________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_bv_lp_requests]
+TABLE "wp_categorymeta"_________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_categorymeta]
+TABLE "wp_commentmeta"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_commentmeta]
+TABLE "wp_comments"_____________________________________[ROWS:      20] [EXTRACT|REPLACE] [INST NAME: wp_comments]
+TABLE "wp_duplicator_backups"___________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_backups]
+TABLE "wp_duplicator_entities"__________________________[ROWS:       9] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_entities]
+TABLE "wp_duplicator_packages"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_packages]
+TABLE "wp_e_events"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_e_events]
+TABLE "wp_links"________________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_links]
+TABLE "wp_member_catmeta"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_member_catmeta]
+TABLE "wp_options"______________________________________[ROWS:     901] [EXTRACT|REPLACE] [INST NAME: wp_options]
+TABLE "wp_portfolio_catmeta"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_portfolio_catmeta]
+TABLE "wp_postmeta"_____________________________________[ROWS:    5898] [EXTRACT|REPLACE] [INST NAME: wp_postmeta]
+TABLE "wp_posts"________________________________________[ROWS:     829] [EXTRACT|REPLACE] [INST NAME: wp_posts]
+TABLE "wp_product_catmeta"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_product_catmeta]
+TABLE "wp_revslider_css"________________________________[ROWS:     109] [EXTRACT|REPLACE] [INST NAME: wp_revslider_css]
+TABLE "wp_revslider_css_bkp"____________________________[ROWS:      47] [EXTRACT|REPLACE] [INST NAME: wp_revslider_css_bkp]
+TABLE "wp_revslider_layer_animations"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_layer_animations]
+TABLE "wp_revslider_layer_animations_bkp"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_layer_animations_bkp]
+TABLE "wp_revslider_navigations"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_navigations]
+TABLE "wp_revslider_navigations_bkp"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_navigations_bkp]
+TABLE "wp_revslider_sliders"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_sliders]
+TABLE "wp_revslider_sliders_bkp"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_sliders_bkp]
+TABLE "wp_revslider_slides"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_slides]
+TABLE "wp_revslider_slides_bkp"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_slides_bkp]
+TABLE "wp_revslider_static_slides"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_static_slides]
+TABLE "wp_revslider_static_slides_bkp"__________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_static_slides_bkp]
+TABLE "wp_sbi_feeds"____________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_sbi_feeds]
+TABLE "wp_sbi_feed_caches"______________________________[ROWS:      12] [EXTRACT|REPLACE] [INST NAME: wp_sbi_feed_caches]
+TABLE "wp_sbi_instagram_feeds_posts"____________________[ROWS:      79] [EXTRACT|REPLACE] [INST NAME: wp_sbi_instagram_feeds_posts]
+TABLE "wp_sbi_instagram_feed_locator"___________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_sbi_instagram_feed_locator]
+TABLE "wp_sbi_instagram_posts"__________________________[ROWS:      79] [EXTRACT|REPLACE] [INST NAME: wp_sbi_instagram_posts]
+TABLE "wp_sbi_sources"__________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_sbi_sources]
+TABLE "wp_termmeta"_____________________________________[ROWS:     174] [EXTRACT|REPLACE] [INST NAME: wp_termmeta]
+TABLE "wp_terms"________________________________________[ROWS:     112] [EXTRACT|REPLACE] [INST NAME: wp_terms]
+TABLE "wp_term_relationships"___________________________[ROWS:     132] [EXTRACT|REPLACE] [INST NAME: wp_term_relationships]
+TABLE "wp_term_taxonomy"________________________________[ROWS:     112] [EXTRACT|REPLACE] [INST NAME: wp_term_taxonomy]
+TABLE "wp_usermeta"_____________________________________[ROWS:     172] [EXTRACT|REPLACE] [INST NAME: wp_usermeta]
+TABLE "wp_users"________________________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wp_users]
+TABLE "wp_wc_admin_notes"_______________________________[ROWS:     174] [EXTRACT|REPLACE] [INST NAME: wp_wc_admin_notes]
+TABLE "wp_wc_admin_note_actions"________________________[ROWS:     219] [EXTRACT|REPLACE] [INST NAME: wp_wc_admin_note_actions]
+TABLE "wp_wc_category_lookup"___________________________[ROWS:       8] [EXTRACT|REPLACE] [INST NAME: wp_wc_category_lookup]
+TABLE "wp_wc_customer_lookup"___________________________[ROWS:      11] [EXTRACT|REPLACE] [INST NAME: wp_wc_customer_lookup]
+TABLE "wp_wc_download_log"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_download_log]
+TABLE "wp_wc_orders"____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_orders]
+TABLE "wp_wc_orders_meta"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_orders_meta]
+TABLE "wp_wc_order_addresses"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_addresses]
+TABLE "wp_wc_order_coupon_lookup"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_coupon_lookup]
+TABLE "wp_wc_order_operational_data"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_operational_data]
+TABLE "wp_wc_order_product_lookup"______________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_product_lookup]
+TABLE "wp_wc_order_stats"_______________________________[ROWS:      13] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_stats]
+TABLE "wp_wc_order_tax_lookup"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_tax_lookup]
+TABLE "wp_wc_product_attributes_lookup"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_product_attributes_lookup]
+TABLE "wp_wc_product_download_directories"______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_product_download_directories]
+TABLE "wp_wc_product_meta_lookup"_______________________[ROWS:      72] [EXTRACT|REPLACE] [INST NAME: wp_wc_product_meta_lookup]
+TABLE "wp_wc_rate_limits"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_rate_limits]
+TABLE "wp_wc_reserved_stock"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_reserved_stock]
+TABLE "wp_wc_tax_rate_classes"__________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_wc_tax_rate_classes]
+TABLE "wp_wc_webhooks"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_webhooks]
+TABLE "wp_wfblockediplog"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfblockediplog]
+TABLE "wp_wfblocks7"____________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_wfblocks7]
+TABLE "wp_wfconfig"_____________________________________[ROWS:     267] [EXTRACT|REPLACE] [INST NAME: wp_wfconfig]
+TABLE "wp_wfcrawlers"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfcrawlers]
+TABLE "wp_wffilechanges"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wffilechanges]
+TABLE "wp_wffilemods"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wffilemods]
+TABLE "wp_wfhits"_______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfhits]
+TABLE "wp_wfhoover"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfhoover]
+TABLE "wp_wfissues"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfissues]
+TABLE "wp_wfknownfilelist"______________________________[ROWS:   15766] [EXTRACT|REPLACE] [INST NAME: wp_wfknownfilelist]
+TABLE "wp_wflivetraffichuman"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wflivetraffichuman]
+TABLE "wp_wflocs"_______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wflocs]
+TABLE "wp_wflogins"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wflogins]
+TABLE "wp_wfls_2fa_secrets"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfls_2fa_secrets]
+TABLE "wp_wfls_settings"________________________________[ROWS:      21] [EXTRACT|REPLACE] [INST NAME: wp_wfls_settings]
+TABLE "wp_wfnotifications"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfnotifications]
+TABLE "wp_wfpendingissues"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfpendingissues]
+TABLE "wp_wfreversecache"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfreversecache]
+TABLE "wp_wfsnipcache"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfsnipcache]
+TABLE "wp_wfstatus"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfstatus]
+TABLE "wp_wftrafficrates"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wftrafficrates]
+TABLE "wp_woocommerce_api_keys"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_api_keys]
+TABLE "wp_woocommerce_attribute_taxonomies"_____________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_attribute_taxonomies]
+TABLE "wp_woocommerce_downloadable_product_permissions"_[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_downloadable_product_permissions]
+TABLE "wp_woocommerce_log"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_log]
+TABLE "wp_woocommerce_order_itemmeta"___________________[ROWS:      70] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_order_itemmeta]
+TABLE "wp_woocommerce_order_items"______________________[ROWS:      10] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_order_items]
+TABLE "wp_woocommerce_payment_tokenmeta"________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_payment_tokenmeta]
+TABLE "wp_woocommerce_payment_tokens"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_payment_tokens]
+TABLE "wp_woocommerce_sessions"_________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_sessions]
+TABLE "wp_woocommerce_shipping_zones"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_shipping_zones]
+TABLE "wp_woocommerce_shipping_zone_locations"__________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_shipping_zone_locations]
+TABLE "wp_woocommerce_shipping_zone_methods"____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_shipping_zone_methods]
+TABLE "wp_woocommerce_tax_rates"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_tax_rates]
+TABLE "wp_woocommerce_tax_rate_locations"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_tax_rate_locations]
+TABLE "wp_wpfm_backup"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wpfm_backup]
+TABLE "wp_yoast_indexable"______________________________[ROWS:     123] [EXTRACT|REPLACE] [INST NAME: wp_yoast_indexable]
+TABLE "wp_yoast_indexable_hierarchy"____________________[ROWS:     109] [EXTRACT|REPLACE] [INST NAME: wp_yoast_indexable_hierarchy]
+TABLE "wp_yoast_migrations"_____________________________[ROWS:      24] [EXTRACT|REPLACE] [INST NAME: wp_yoast_migrations]
+TABLE "wp_yoast_primary_term"___________________________[ROWS:      27] [EXTRACT|REPLACE] [INST NAME: wp_yoast_primary_term]
+TABLE "wp_yoast_seo_links"______________________________[ROWS:       8] [EXTRACT|REPLACE] [INST NAME: wp_yoast_seo_links]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.6.15 -- Build Server: 10.6.16
+FILE SIZE:	dup-database__[HASH].sql (17.07MB)
+TIMEOUT:	5000
+MAXPACK:	1073741824
+SQLMODE-GLOBAL:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`u726706882_bonika`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	264
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wp_actionscheduler_actions"______________________[ROWS:    48]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:     1]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:     7]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:   139]
+TABLE "wp_bv_activities_store"__________________________[ROWS:     6]
+TABLE "wp_bv_fw_requests"_______________________________[ROWS:   178]
+TABLE "wp_bv_ip_store"__________________________________[ROWS:  5838]
+TABLE "wp_bv_lp_requests"_______________________________[ROWS:     2]
+TABLE "wp_categorymeta"_________________________________[ROWS:     0]
+TABLE "wp_commentmeta"__________________________________[ROWS:     0]
+TABLE "wp_comments"_____________________________________[ROWS:    20]
+TABLE "wp_duplicator_backups"___________________________[ROWS:     1]
+TABLE "wp_duplicator_entities"__________________________[ROWS:     9]
+TABLE "wp_duplicator_packages"__________________________[ROWS:     0]
+TABLE "wp_e_events"_____________________________________[ROWS:     0]
+TABLE "wp_links"________________________________________[ROWS:     0]
+TABLE "wp_member_catmeta"_______________________________[ROWS:     0]
+TABLE "wp_options"______________________________________[ROWS:   901]
+TABLE "wp_portfolio_catmeta"____________________________[ROWS:     0]
+TABLE "wp_postmeta"_____________________________________[ROWS:  5898]
+TABLE "wp_posts"________________________________________[ROWS:   829]
+TABLE "wp_product_catmeta"______________________________[ROWS:     0]
+TABLE "wp_revslider_css"________________________________[ROWS:   109]
+TABLE "wp_revslider_css_bkp"____________________________[ROWS:    47]
+TABLE "wp_revslider_layer_animations"___________________[ROWS:     0]
+TABLE "wp_revslider_layer_animations_bkp"_______________[ROWS:     0]
+TABLE "wp_revslider_navigations"________________________[ROWS:     0]
+TABLE "wp_revslider_navigations_bkp"____________________[ROWS:     0]
+TABLE "wp_revslider_sliders"____________________________[ROWS:     0]
+TABLE "wp_revslider_sliders_bkp"________________________[ROWS:     0]
+TABLE "wp_revslider_slides"_____________________________[ROWS:     0]
+TABLE "wp_revslider_slides_bkp"_________________________[ROWS:     0]
+TABLE "wp_revslider_static_slides"______________________[ROWS:     0]
+TABLE "wp_revslider_static_slides_bkp"__________________[ROWS:     0]
+TABLE "wp_sbi_feed_caches"______________________________[ROWS:    12]
+TABLE "wp_sbi_feeds"____________________________________[ROWS:     1]
+TABLE "wp_sbi_instagram_feed_locator"___________________[ROWS:     1]
+TABLE "wp_sbi_instagram_feeds_posts"____________________[ROWS:    79]
+TABLE "wp_sbi_instagram_posts"__________________________[ROWS:    79]
+TABLE "wp_sbi_sources"__________________________________[ROWS:     1]
+TABLE "wp_term_relationships"___________________________[ROWS:   132]
+TABLE "wp_term_taxonomy"________________________________[ROWS:   112]
+TABLE "wp_termmeta"_____________________________________[ROWS:   174]
+TABLE "wp_terms"________________________________________[ROWS:   112]
+TABLE "wp_usermeta"_____________________________________[ROWS:   172]
+TABLE "wp_users"________________________________________[ROWS:     5]
+TABLE "wp_wc_admin_note_actions"________________________[ROWS:   219]
+TABLE "wp_wc_admin_notes"_______________________________[ROWS:   174]
+TABLE "wp_wc_category_lookup"___________________________[ROWS:     8]
+TABLE "wp_wc_customer_lookup"___________________________[ROWS:    11]
+TABLE "wp_wc_download_log"______________________________[ROWS:     0]
+TABLE "wp_wc_order_addresses"___________________________[ROWS:     0]
+TABLE "wp_wc_order_coupon_lookup"_______________________[ROWS:     0]
+TABLE "wp_wc_order_operational_data"____________________[ROWS:     0]
+TABLE "wp_wc_order_product_lookup"______________________[ROWS:     5]
+TABLE "wp_wc_order_stats"_______________________________[ROWS:    13]
+TABLE "wp_wc_order_tax_lookup"__________________________[ROWS:     0]
+TABLE "wp_wc_orders"____________________________________[ROWS:     0]
+TABLE "wp_wc_orders_meta"_______________________________[ROWS:     0]
+TABLE "wp_wc_product_attributes_lookup"_________________[ROWS:     0]
+TABLE "wp_wc_product_download_directories"______________[ROWS:     0]
+TABLE "wp_wc_product_meta_lookup"_______________________[ROWS:    72]
+TABLE "wp_wc_rate_limits"_______________________________[ROWS:     0]
+TABLE "wp_wc_reserved_stock"____________________________[ROWS:     0]
+TABLE "wp_wc_tax_rate_classes"__________________________[ROWS:     2]
+TABLE "wp_wc_webhooks"__________________________________[ROWS:     0]
+TABLE "wp_wfblockediplog"_______________________________[ROWS:     0]
+TABLE "wp_wfblocks7"____________________________________[ROWS:     1]
+TABLE "wp_wfconfig"_____________________________________[ROWS:   267]
+TABLE "wp_wfcrawlers"___________________________________[ROWS:     0]
+TABLE "wp_wffilechanges"________________________________[ROWS:     0]
+TABLE "wp_wffilemods"___________________________________[ROWS:     0]
+TABLE "wp_wfhits"_______________________________________[ROWS:     0]
+TABLE "wp_wfhoover"_____________________________________[ROWS:     0]
+TABLE "wp_wfissues"_____________________________________[ROWS:     0]
+TABLE "wp_wfknownfilelist"______________________________[ROWS: 15766]
+TABLE "wp_wflivetraffichuman"___________________________[ROWS:     0]
+TABLE "wp_wflocs"_______________________________________[ROWS:     0]
+TABLE "wp_wflogins"_____________________________________[ROWS:     0]
+TABLE "wp_wfls_2fa_secrets"_____________________________[ROWS:     0]
+TABLE "wp_wfls_settings"________________________________[ROWS:    21]
+TABLE "wp_wfnotifications"______________________________[ROWS:     0]
+TABLE "wp_wfpendingissues"______________________________[ROWS:     0]
+TABLE "wp_wfreversecache"_______________________________[ROWS:     0]
+TABLE "wp_wfsnipcache"__________________________________[ROWS:     0]
+TABLE "wp_wfstatus"_____________________________________[ROWS:     0]
+TABLE "wp_wftrafficrates"_______________________________[ROWS:     0]
+TABLE "wp_woocommerce_api_keys"_________________________[ROWS:     0]
+TABLE "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     3]
+TABLE "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0]
+TABLE "wp_woocommerce_log"______________________________[ROWS:     0]
+TABLE "wp_woocommerce_order_itemmeta"___________________[ROWS:    70]
+TABLE "wp_woocommerce_order_items"______________________[ROWS:    10]
+TABLE "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0]
+TABLE "wp_woocommerce_payment_tokens"___________________[ROWS:     0]
+TABLE "wp_woocommerce_sessions"_________________________[ROWS:     4]
+TABLE "wp_woocommerce_shipping_zone_locations"__________[ROWS:     0]
+TABLE "wp_woocommerce_shipping_zone_methods"____________[ROWS:     0]
+TABLE "wp_woocommerce_shipping_zones"___________________[ROWS:     0]
+TABLE "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0]
+TABLE "wp_woocommerce_tax_rates"________________________[ROWS:     0]
+TABLE "wp_wpfm_backup"__________________________________[ROWS:     0]
+TABLE "wp_yoast_indexable"______________________________[ROWS:   123]
+TABLE "wp_yoast_indexable_hierarchy"____________________[ROWS:   109]
+TABLE "wp_yoast_migrations"_____________________________[ROWS:    24]
+TABLE "wp_yoast_primary_term"___________________________[ROWS:    27]
+TABLE "wp_yoast_seo_links"______________________________[ROWS:     8]
+
+INSERT DATA RUNTIME: 0.9264 sec.
+STEP-2 COMPLETE @ 10:03:26 - RUNTIME: 0.9264 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/jawa2439/public_html/bonikkadolls.co.id REPLACE: /home/u726706882/domains/bonikkadolls.co.id/public_html [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 10:03:26
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 9223372036854775807], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = 1], [inWpConfig = 1]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 512M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [wp_options]
+	`option_name` = "duplicator_pro_plugin_data_stats"
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_pro_ui_view_state","duplicator_pro_package_active","duplicator_pro_settings")
+DATABASE OPTIONS DELETED [ROWS:   127]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wp_actionscheduler_actions"______________________[ROWS:    48][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_actions][0]
+
+EVALUATE TABLE: "wp_actionscheduler_claims"_______________________[ROWS:     1][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_actionscheduler_groups"_______________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_groups][0]
+
+EVALUATE TABLE: "wp_actionscheduler_logs"_________________________[ROWS:   139][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_logs][0]
+
+EVALUATE TABLE: "wp_bv_activities_store"__________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_bv_activities_store][0]
+
+EVALUATE TABLE: "wp_bv_fw_requests"_______________________________[ROWS:   178][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_bv_fw_requests][0]
+
+EVALUATE TABLE: "wp_bv_ip_store"__________________________________[ROWS:  5838][PG:   6][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_bv_lp_requests"_______________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_bv_lp_requests][0]
+
+EVALUATE TABLE: "wp_categorymeta"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:    20][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_comments][0]
+
+EVALUATE TABLE: "wp_duplicator_backups"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_entities"__________________________[ROWS:     9][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_duplicator_entities][0]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_events"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_member_catmeta"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   774][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_options][0]
+
+EVALUATE TABLE: "wp_portfolio_catmeta"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  5898][PG:   6][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][5]
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   829][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][0]
+
+EVALUATE TABLE: "wp_product_catmeta"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_css"________________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_css][0]
+
+EVALUATE TABLE: "wp_revslider_css_bkp"____________________________[ROWS:    47][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_css_bkp][0]
+
+EVALUATE TABLE: "wp_revslider_layer_animations"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_layer_animations_bkp"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_navigations"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_navigations_bkp"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_sliders"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_sliders_bkp"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_slides"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_slides_bkp"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_static_slides"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_static_slides_bkp"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_sbi_feeds"____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_sbi_feeds][0]
+
+EVALUATE TABLE: "wp_sbi_feed_caches"______________________________[ROWS:    12][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_sbi_feed_caches][0]
+
+EVALUATE TABLE: "wp_sbi_instagram_feeds_posts"____________________[ROWS:    79][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_sbi_instagram_feeds_posts][0]
+
+EVALUATE TABLE: "wp_sbi_instagram_feed_locator"___________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_sbi_instagram_feed_locator][0]
+
+EVALUATE TABLE: "wp_sbi_instagram_posts"__________________________[ROWS:    79][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_sbi_instagram_posts][0]
+
+EVALUATE TABLE: "wp_sbi_sources"__________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_sbi_sources][0]
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:   174][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_termmeta][0]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:   112][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_terms][0]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:   132][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:   112][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_taxonomy][0]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:   172][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][0]
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_users][0]
+
+EVALUATE TABLE: "wp_wc_admin_notes"_______________________________[ROWS:   174][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_admin_notes][0]
+
+EVALUATE TABLE: "wp_wc_admin_note_actions"________________________[ROWS:   219][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_admin_note_actions][0]
+
+EVALUATE TABLE: "wp_wc_category_lookup"___________________________[ROWS:     8][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_customer_lookup"___________________________[ROWS:    11][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_customer_lookup][0]
+
+EVALUATE TABLE: "wp_wc_download_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_orders"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_orders_meta"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_addresses"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_coupon_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_operational_data"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_product_lookup"______________________[ROWS:     5][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_stats"_______________________________[ROWS:    13][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_order_stats][0]
+
+EVALUATE TABLE: "wp_wc_order_tax_lookup"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_attributes_lookup"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_download_directories"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_meta_lookup"_______________________[ROWS:    72][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_product_meta_lookup][0]
+
+EVALUATE TABLE: "wp_wc_rate_limits"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_reserved_stock"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_tax_rate_classes"__________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_tax_rate_classes][0]
+
+EVALUATE TABLE: "wp_wc_webhooks"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfblockediplog"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfblocks7"____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfblocks7][0]
+
+EVALUATE TABLE: "wp_wfconfig"_____________________________________[ROWS:   267][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfconfig][0]
+
+EVALUATE TABLE: "wp_wfcrawlers"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wffilechanges"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wffilemods"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfhits"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfhoover"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfissues"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfknownfilelist"______________________________[ROWS: 15766][PG:  16][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][4]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][5]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][6]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][7]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][8]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][9]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][10]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][11]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][12]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][13]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][14]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][15]
+
+EVALUATE TABLE: "wp_wflivetraffichuman"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wflocs"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wflogins"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfls_2fa_secrets"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfls_settings"________________________________[ROWS:    21][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfls_settings][0]
+
+EVALUATE TABLE: "wp_wfnotifications"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfpendingissues"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfreversecache"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfsnipcache"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfstatus"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wftrafficrates"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_api_keys"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_woocommerce_attribute_taxonomies][0]
+
+EVALUATE TABLE: "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_itemmeta"___________________[ROWS:    70][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_woocommerce_order_itemmeta][0]
+
+EVALUATE TABLE: "wp_woocommerce_order_items"______________________[ROWS:    10][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_woocommerce_order_items][0]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokens"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_sessions"_________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_woocommerce_sessions][0]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zones"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_locations"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_methods"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rates"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wpfm_backup"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yoast_indexable"______________________________[ROWS:   123][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_indexable][0]
+
+EVALUATE TABLE: "wp_yoast_indexable_hierarchy"____________________[ROWS:   109][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yoast_migrations"_____________________________[ROWS:    24][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_migrations][0]
+
+EVALUATE TABLE: "wp_yoast_primary_term"___________________________[ROWS:    27][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_primary_term][0]
+
+EVALUATE TABLE: "wp_yoast_seo_links"______________________________[ROWS:     8][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/jawa2439/public_html/bonikkadolls.co.id" ===> "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_seo_links][0]
+--------------------------------------
+SCANNED:	Tables:107 	|	 Rows:25629 	|	 Cells:117156 
+UPDATED:	Tables:3 	|	 Rows:15800 	|	 Cells:15800 
+ERRORS:		0 
+RUNTIME:	2.477400 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [rem_licenze_key][][]
+
+====================================
+REMOVE LICENSE KEY
+====================================
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/home/u726706882/domains/bonikkadolls.co.id/public_html/wp-config.php
+New .htaccess file created:/home/u726706882/domains/bonikkadolls.co.id/public_html/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE DB_NAME ""u726706882_bonika""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_CACHE "true"
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+UPDATE OPTION home ON TABLE wp_options
+UPDATE OPTION siteurl ON TABLE wp_options
+UPDATE OPTION duplicator_pro_exe_safe_mode ON TABLE wp_options
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+ - REMOVED 1 storage items
+ - REMOVED 1 schedule items
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+--------------------------------------
+PATHS MAPPING : "/home/u726706882/domains/bonikkadolls.co.id/public_html"
+--------------------------------------
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 10:03:28 - RUNTIME: 2.5747 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/src/Core/Bootstrap.php:76] RESET TIME
+STEP ACTION: "on-validate"
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+====================================
+LOG-TIME[/home/u726706882/domains/bonikkadolls.co.id/public_html/dup-installer/ctrls/ctrl.base.php:191][DELTA:   0.02122]  MESSAGE:END RENDER PAGE
